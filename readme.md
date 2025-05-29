@@ -1,4 +1,4 @@
-# The Flicker Methodology
+# The Flicker Method
 
 The Flicker Method is a recursive framework for analyzing language systems under pressure. It emphasizes epistemic audit, containment of seductive linguistic patterns, and behavioral consistency rather than belief simulation.
 
